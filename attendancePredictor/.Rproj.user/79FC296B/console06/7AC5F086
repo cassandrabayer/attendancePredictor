@@ -37,3 +37,28 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git add .
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git commit -m " [Kadded basic"[K mapping structure"
+[master 0f30ce2] added basic mapping structure
+ 13 files changed, 255 insertions(+), 2 deletions(-)
+ create mode 100644 attendancePredictor/.DS_Store
+ create mode 100644 attendancePredictor/.Rproj.user/.DS_Store
+ rewrite attendancePredictor/.Rproj.user/79FC296B/console06/INDEX001 (73%)
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/prop/7AFB11EB
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/prop/C3F8285A
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/prop/INDEX
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/s-EF4EDC0B/166E60EE
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/s-EF4EDC0B/166E60EE-contents
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/s-EF4EDC0B/92C42C3E
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/sources/s-EF4EDC0B/92C42C3E-contents
+ create mode 100644 attendancePredictor/.Rproj.user/shared/notebooks/paths
+ create mode 100644 attendancePredictor/controller.R
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git push origina [K[K attendance [KPreid[K[Kdictor
+error: src refspec attendancePredictor does not match any.
+error: failed to push some refs to 'origin'
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ 

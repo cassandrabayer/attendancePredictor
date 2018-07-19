@@ -7,3 +7,9 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git add.[K .
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ git commit -m "commencing"
+[master b6e5368] commencing
+ 2 files changed, 10 insertions(+)
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/console06/7AC5F086
+ create mode 100644 attendancePredictor/.Rproj.user/79FC296B/console06/INDEX001
+]0;~/Desktop/attendancePredictor/attendancePredictorCassandras-Air:attendancePredictor cassandrabayer$ 

@@ -1,0 +1,23 @@
+##load data
+### Get csv data
+transpoCsv <- read.csv("/Users/cassandrabayer/Downloads/Subway Entrances/DOITT_SUBWAY_ENTRANCE_01_13SEPT2010.csv")
+transpoCsv <- fortify(transpoCsv)
+attendance <- read.csv("2006_-_2012_School_Demographics_and_Accountability_Snapshot.csv")
+
+### Get shapefile
+transpo <- readOGR("/Users/cassandrabayer/Desktop/attendancePredictor/Subway Entrances", 
+                   "geo_export_7acf9329-d239-48e3-8b35-be467ddd6a83")
+
+### Quick map for a gut check
+plot(transpo)
+
+### Get out colors for moving forward
+colors <- brewer.pal(9, "BuGn")
+
+mapImage <- get_map(location = c(lon = -118, lat = 37.5),
+                    color = "color",
+                    source = "osm",
+                    # maptype = "terrain",
+                    zoom = 6)
+
+transpoPoints <- fortify(transpoPoints)

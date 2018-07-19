@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531961229178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3242295320",
+    "id" : "166E60EE",
+    "lastKnownWriteTime" : 1531963951,
+    "last_content_update" : 1531963951550,
+    "path" : "~/Desktop/attendancePredictor/attendancePredictor/controller.R",
+    "project_path" : "controller.R",
+    "properties" : {
+        "cursorPosition" : "73,0",
+        "scrollLine" : "53",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

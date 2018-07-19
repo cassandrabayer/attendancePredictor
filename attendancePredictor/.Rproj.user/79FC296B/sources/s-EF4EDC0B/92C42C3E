@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531963958279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4269078359",
+    "id" : "92C42C3E",
+    "lastKnownWriteTime" : 1531964974,
+    "last_content_update" : 1531964974852,
+    "path" : "~/.Trash/Subway Entrances/transpoAttendancePredict.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "10,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
